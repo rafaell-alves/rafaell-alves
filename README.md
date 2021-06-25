@@ -9,6 +9,7 @@ Em meu tempo livre estudo Node e React JS.
 [![Gmail Badge](https://img.shields.io/badge/-rafaell.alves16062002@gmail.com-282a36?style=flat-square&logo=Gmail&logoColor=red&link=mailto:rafaell.alves16062002@gmail.com)](mailto:rafaell.alves16062002@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaell-alves&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaell-alves&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
